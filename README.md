@@ -30,7 +30,7 @@ Reduce excessive overtime, act on low job satisfaction, strengthen onboarding, a
 - `employee_attrition_performance.csv`: original data
 
 ## Dashboard preview
-![Dashboard](dashboard.png)
+dashboard.png
 
 ## Demo video
-[Watch the demo video]([paste your video link here])
+https://www.loom.com/share/1e639d69a3924a2485a1da5fa1dc2fbb
